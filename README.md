@@ -7,4 +7,4 @@ This repository contains an image classification model built using ResNet18. The
 ![Parkour Video](jetracer.gif)
 
 ## Dataset Picture
-![Image](dataset.jpg)
+![Image](dataset.png)
